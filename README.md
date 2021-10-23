@@ -1,1 +1,1 @@
-Das ist Jan's erstes GIT Projetk
+Das ist Jan's erstes GIT Projekt!
